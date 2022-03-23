@@ -1,0 +1,20 @@
+<!-- Code for 360 Photospere v1.1 -->
+<!-- Self hosted on squarespace -->
+
+<script src="https://aframe.io/releases/1.0.3/aframe.min.js"></script>
+
+<style>
+
+a-scene {
+height:500px;
+width:100%px;
+}
+
+</style>
+
+<div id="myEmbeddedScene">
+
+<a-scene vr-mode-ui="enabled: false" embedded>
+      <a-sky src="https://images.squarespace-cdn.com/content/v1/5848a20aebbd1aa174957f94/a5e4c9a9-bf6d-4c22-b013-b92a96cd71d1/Sensebellum-Interactive-Art-Pop-Up-360.jpg" rotation="0 -130 0"></a-sky>
+    </a-scene>
+    </div>
