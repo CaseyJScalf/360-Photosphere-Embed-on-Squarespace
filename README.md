@@ -1,6 +1,8 @@
 # 360-Photosphere-Embed-on-Squarespace
 Simple code to make use of a 360º photosphere on a Squarespace page.
 
+Big thanks for A-Frame for making it all happen with great examples! https://aframe.io/examples/showcase/sky/
+
 Read more on the blog post: https://www.caseyjscalf.com/blog/2022/3/21/360-photosphere-embed-on-squarespace-9dfhr
 
 1) Find yourself a 360º photosphere image that is “flat”. Like the one below.
